@@ -45,6 +45,7 @@
 	CtagsParser, \
 	CobolParser, \
 	DParser, \
+	DartParser, \
 	DiffParser, \
 	DTSParser, \
 	DosBatchParser, \
